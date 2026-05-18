@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+.vscode/
+plots/
+vis_output/
+checkpoints/
+*.pth
+*.zip
+.ipynb_checkpoints/
+.DS_Store
